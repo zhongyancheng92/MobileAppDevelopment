@@ -2,7 +2,7 @@
    
    （推荐下载到本地使用Markdown浏览器打开，否则一些格式设置（如颜色）会无法在Github中预览显示！）
    
-2. 本课程推荐采用UML在线编辑平台："https://online.visual-paradigm.com/cn/"；
+2. 本课程推荐采用UML在线编辑平台："https://online.visual-paradigm.com/cn/" ；
    
    （注：无需注册！）
 
